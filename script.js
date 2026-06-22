@@ -21,13 +21,13 @@ function gift(){
 
 const messages=[
 
-"Ryan unlocked +100 Friendship",
+"ALLDA AND SUMIT DAA WILL DEFINATELY SUCK",
 
 "Best Friend Achievement",
 
-"Birthday Energy Activated",
+"SUMIT WILL SUCK YOU DRY",
 
-"School Memories Restored"
+"SUMIT SEXUAL GAY PORNSTAR "
 
 ];
 
